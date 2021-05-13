@@ -16,9 +16,7 @@ import numpy as np
 import pandas as pd
 import networkx as nx
 import os
-import geopandas
-from shapely.geometry import Point
-import kmb
+
 
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename, askdirectory
